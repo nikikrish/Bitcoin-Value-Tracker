@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bitcoin Price</string>
+    <string name="USD">USD</string>
+    <string name="INR">INR</string>
+    <string name="Chart_desc">Bitcoin price over time</string>
+    <string name="bitcoin_value_tracker">Bitcoin Value Tracker</string>
+
+
+</resources>
